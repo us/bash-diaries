@@ -38,12 +38,15 @@ yum install dialog
 ```
 
 ## Usage
+
 ```sh
 ./dia.sh [optional_name]
 ```
 `18-02-2018`
 
 `18-02-2018-(optional_name)`
+
+[![asciicast](https://asciinema.org/a/180987.png)](https://asciinema.org/a/180987)
 
 If it is your first entry the script, you will create the password.
 
