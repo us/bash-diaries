@@ -1,6 +1,7 @@
  <img align="right" width="120" height="90" title="Size Limit logo" src="./diary_logo.png">
 
 # Bash Diary
+[![asciicast](https://asciinema.org/a/180987.png)](https://asciinema.org/a/180987)
 
 Encrypted private diary.
 
@@ -46,7 +47,6 @@ yum install dialog
 
 `18-02-2018-(optional_name)`
 
-[![asciicast](https://asciinema.org/a/180987.png)](https://asciinema.org/a/180987)
 
 If it is your first entry the script, you will create the password.
 
